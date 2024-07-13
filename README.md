@@ -23,7 +23,7 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers = 129880
+
 
    Number of satisfied  Quantity = 50k 
 
