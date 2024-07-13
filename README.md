@@ -9,8 +9,8 @@
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : "column profiling based on entire dataset".
-- Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
-- Step 5 : Check errors
+- Step 4 : Check errors
+- Step 5 : It was observed that in none of the columns errors & empty values were present .
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : A new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 8 : Visual filters (Slicers) were added for four fields named "PIZZA SIZE".
